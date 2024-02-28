@@ -8,3 +8,7 @@ CREATE TABLE Books(
   price int, 
   rating int, 
   stock_count int, publisher text, pages int)
+INSERT into Books 
+  add column publisher text,
+INSERT into Books 
+  add column pages int
