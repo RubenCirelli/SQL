@@ -7,7 +7,7 @@ CREATE TABLE Books(
   isbn int, 
   price int, 
   rating int, 
-  stock_count int, publisher text, pages int)
+  stock_count int)
 INSERT into Books 
   add column publisher text,
 INSERT into Books 
