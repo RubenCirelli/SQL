@@ -8,7 +8,7 @@ CREATE TABLE Books(
   price int, 
   rating int, 
   stock_count int)
-INSERT into Books 
+ALTER TABLE Books 
   add column publisher text,
-INSERT into Books 
+ALTER TABLE Books 
   add column pages int
