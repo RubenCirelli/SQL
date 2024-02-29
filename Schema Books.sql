@@ -1,5 +1,5 @@
 INSERT INTO Books (book_id, title, genre, author, pubilshed_year, isbn, price, rating, stock_count, publisher, pages)
- VALUES (101," Journey to the Center", "Adventure", "Jules Verne", 1864, 1234567890123, 12.99, 4.5, 10, "Verne Publishing", 350)
+ VALUES (101," Journey to the Center", "Adventure", "Jules Verne", 1864, 1234567890123, 12.99, 4.5, 10, "Verne Publishing", 350);
  
  BEGIN TRANSACTION; -- Inizia una nuova transazione
 
