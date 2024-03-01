@@ -1,0 +1,1 @@
+SELECT SUM(survived) FROM tested WHERE pclass= 1 ;

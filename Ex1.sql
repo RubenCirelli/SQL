@@ -1,0 +1,1 @@
+SELECT * FROM tested WHERE Sex = 'female' and Age > 30;

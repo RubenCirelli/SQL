@@ -1,0 +1,1 @@
+SELECT AVG(Age) FROM tested WHERE Sex = 'male' ;

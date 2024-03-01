@@ -1,0 +1,1 @@
+SELECT * FROM tested WHERE embarked='C' and fare>75;
